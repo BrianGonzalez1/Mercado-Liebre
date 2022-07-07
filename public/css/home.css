@@ -1,0 +1,16 @@
+/* Header */
+
+
+/* Fin header */
+
+/* main */
+.home main {
+    width: 100%;
+}
+.home main section article div {
+    width: 100%;
+    background-color: aqua;
+}
+.home main section article div img {
+    width: 100%;
+}
