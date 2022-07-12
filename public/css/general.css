@@ -5,6 +5,9 @@
     font-family: var(--FuentePrincipal);
     /* font-size: var(--cuerpo-de-texto); */
 }
+body{
+    background-color: var(--grisClaro);
+}
 
 a{
     color: black;
